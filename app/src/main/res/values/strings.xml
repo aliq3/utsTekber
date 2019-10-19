@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">utsTekber</string>
+
+    <string name="judul_buku">Judul Buku</string>
+
+    <string-array name="judul_buku_buku">
+        <item>Berserk of Gluttony</item>
+        <item>Fire Force</item>
+        <item>Magi: The Labyrinth of Magic</item>
+        <item>One Piece</item>
+        <item>Ouroboros</item>
+        <item>Record of Ragnarok</item>
+    </string-array>
+
+    <string name="sinopsis_buku">Sinopsis Buku</string>
+
+    <string-array name="sinopsis_buku_buku">
+        <item>In this world, there are two types of people. Those who have powerful “skills,” and those who dont. People born with powerful skills exterminate monsters to level up and become successful, while people without them become failures who are treated harshly by society.\n\nFate Grafit works as a mere gatekeeper, and his only skill is gluttony, which makes him hungry. Constantly abused and ultimately useless, he unexpectedly levels up one day and he learns the true nature of his skill: kill monsters to “eat” their power. With the desire to take revenge on those who looked down on him, Fate sets out to get stronger....!</item>
+        <item>Terror has paralyzed the clockwork metropolis of Tokyo! Possessed by demons, people have begun to burst into flame, leading to the establishment of a special firefighting department: the Fire Force, ready to roll on a moments notice to fight spontaneous combustion anywhere it might break out.\n\nOne of the Fire Force teams is about to get a unique addition: Shinra, a boy who possesses the unique power to run at the speed of a rocket, leaving behind the famous "devil's footprints" and destroying his shoes in the process. Can the Fire Force discover the source of this strange phenomenon and put a stop to it? Or will the city burn to ashes first?</item>
+        <item>In a world similar to that of Scheherezades tales, a mysterious young boy named Aladdin drifts from place to place with his djinn Ugo. Ugo lives inside a golden recorder, and Aladdin is on the hunt for his true container "The Djinn's Metal Vessel.\n\nOne day he encounters Alibaba, a poor lad determined to enter one of the mysterious Dungeons that popped up a decade ago in order to make his fortune. Thus the two begi their adventure in a Persia that never was.</item>
+        <item>Gol D. Roger, a man referred to as the "Pirate King," was set to be executed by the World Government. Right before his demise, he confirmed the existence of a great treasure called One Piece that is located somewhere within the vast ocean known as the Grand Line. Announcing that One Piece can be claimed by anyone worthy enough to reach it, the Pirate King is executed and the Great Age of Pirates begins.\n\nTwenty-two years later, a young man by the name of Monkey D. Luffy is ready to embark on his own adventure, searching for One Piece and striving to become the new Pirate King. Armed with just a straw hat, a small boat, and an elastic body, he sets out on a fantastic journey to gather his own crew and a worthy ship that will take them across the Grand Line to claim the greatest status on the high seas.</item>
+        <item>Ryuzaki Ikuo and Tatsuya Danno were a pair of orphan boys taken care of by a woman they lovingly called “Sensei”. One horrific day, Sensei was murdered, but the detective in charge of the case, wearing a distinct gold watch, covered everything up and never bothered to find the murderer.\n\nNow, 15 years later, Ikuo has become a police detective. Danno, meanwhile, became the leader of a yakuza gang. Although the two ended up going down very different paths, they haven’t forgotten the pain of their mother figure’s murder. Case by case, they help each other out to get revenge on “Gold Watch” and all the others responsible for that terrible night....</item>
+        <item>The story begins when the gods call a convention to decide the whether to let humanity live or die, and settle on destroying humanity. But a lone valkyrie puts forward a suggestion to let the gods and humanity fight one last battle, as a last hope for humanity continued survival. 13 gods will fight against 13 human champions in one-on-one battles to decide whether humanity lives or dies.</item>
+    </string-array>
+
+    <string-array name="publish_buku_buku">
+        <item>2018</item>
+        <item>2015</item>
+        <item>2017</item>
+        <item>1997</item>
+        <item>2016</item>
+        <item>2019</item>
+    </string-array>
+
+    <string-array name="author_buku_buku">
+        <item>Takino Daisuke (art), Isshiki Ichika (story)</item>
+        <item>Atsushi Ohkubo (art and story)</item>
+        <item>Shinobu Ohtaka (art and story)</item>
+        <item>Eiichiro Oda (art and story)</item>
+        <item>Yuuya Kanzaki (art and story)</item>
+        <item>Takumi Fukui (story), Shinya Umemura (story), Chika Aji (art)</item>
+    </string-array>
+
+    <string name="nama">Muhammad Nurkhaliq</string>
+    <string name="nim">H1101171030</string>
+    <string name="email">muhammadkhaliq@student.untan.ac.id</string>
+    <string name="deskripsi_profil">Foto Profil</string>
+    <string name="about_me">About Me</string>
+</resources>
